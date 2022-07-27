@@ -1,3 +1,22 @@
 body {
     background: blueviolet;
 }
+
+* {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    width: 25%;
+    margin-left: 37%;
+}
+
+#about {
+    font-size: large;
+    font-weight: bolder;
+}
+
+footer {
+    margin-top: 10%;
+}
