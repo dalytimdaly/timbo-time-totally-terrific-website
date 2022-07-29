@@ -2,14 +2,123 @@ body {
     background: blueviolet;
 }
 
-* {
+h1 {
+    text-align: center;
+    background-color: gray;
+    padding: 10px;
+  }
+  
+#p1 {
+      text-align: center;
+      width: 25%;
+      margin-left: 37%;
+  }
+
+#didyou {
+    width: 200px;
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+}
+
+#know {
+    font-weight: bolder;
+}
+
+
+#thankyou {
+    width: 200px;
+    text-align: center;
+    float: right;
+    margin-right: 10%;
+}
+
+#you {
+    text-align: center;
+    font-weight: bolder;
+}
+
+#thank {
     text-align: center;
 }
 
-p {
+
+footer {
+    margin-top: 10%;
+}
+
+#bananapic {
+    align-content:;
+    margin-left: 32%;
+}
+
+#p2 {
+    margin-left: 10%;
+}
+
+input[type="button"] {
+    background-color: #a61e4d;
+    color: #eee;
+    padding: 15px 25px;
+    border: none;
+  }
+  
+  input[type="button"]:hover {
+     background-color: #d6336c;
+  }
+
+#contactinformation {
+    background-color: red;
     text-align: center;
+    font-weight: bolder;  
+}
+
+#info1{
+    width: 200px;
+    margin-left: 43%;
+    padding: 10px;
+}
+
+#facebook {
+    text-align: center;
+    float: left;
     width: 25%;
+    background-color: orange;
+}
+
+#linkedin {
+    text-align: center;
+    float: left;
+    width: 25%;
+    background-color: yellow;
+    
+}
+
+#twitter {
+    text-align: center;
+    float: left;
+    width: 25%;
+    background-color: green;
+}
+
+#email {
+    text-align: center;
+    float: left;
+    width: 25%;
+    background-color: indigo;
+}
+
+
+#disclaim {
+    width: 400px;
+    text-align: center;
     margin-left: 37%;
+}
+
+
+#abouttimboni {
+    background-color: wheat;
+    margin-top: 50px;
 }
 
 #about {
@@ -17,8 +126,29 @@ p {
     font-weight: bolder;
 }
 
-footer {
-    margin-top: 10%;
+#timbo {
+    float: left;
+    width: 200px;
+    background-color: red;
+}
+
+#boni {
+    float: left;
+    margin-top: 40px;
+    width: 200px;
+    background-color: white;
+}
+
+#artfuldodger {
+    float: left;
+    width: 200px;
+    margin-top: 80px;
+    background-color: blue;
+}
+
+#closing {
+    margin-top: 50px;
+    align-content: center;
 }
 
 #dodger {
@@ -75,4 +205,8 @@ footer {
     left: 0;
     position: absolute;
     width: 9px;
+  }
+
+  #goodbye {
+    background-color: aqua;
   }
